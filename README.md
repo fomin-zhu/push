@@ -1,11 +1,17 @@
 **1、概述**
+
 huaying android push集成了小米，华为，魅族，vivo和oppo五大厂家的push sdk，方便Android各项目集成push。
 
 **2、Push类图**
+
 ![图片](https://images-cdn.shimo.im/5GTVWCbUuH48iADJ/未命名文件_1_.png!thumbnail)
+
 **3、Push时序图**
+
 ![图片](https://images-cdn.shimo.im/nJCyxpQXXrodKBdj/未命名文件_6_.png!thumbnail)
+
 **4、使用姿势**
+
 * 配置global.gradle和build.gradle
 
 在project的build增加配置
