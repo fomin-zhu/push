@@ -19,15 +19,14 @@ huaying android push集成了小米，华为，魅族，vivo和oppo五大厂家�
 allprojects {
     repositories {
         maven {url "http://developer.huawei.com/repo"}
+        maven{url 'https://raw.githubusercontent.com/fomin-zhu/repo/master'}
     }
 }
 ```
 在module的build增加配置
 ```
 dependencies {
-  implementation (libs.hyPush){
-    exclude group: 'com.android.support'
-  }
+  implementation 'com.fomin.push:push:1.0.0'
 }
 ```
 * 配置AndroidManifest
