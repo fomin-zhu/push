@@ -1,6 +1,6 @@
 **1、概述**
 
-huaying android push集成了小米，华为，魅族，vivo和oppo五大厂家的push sdk，方便Android各项目集成push。
+android push集成了小米，华为，魅族，vivo和oppo五大厂家的push sdk，方便Android各项目集成push。
 
 **2、Push类图**
 
