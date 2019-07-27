@@ -4,7 +4,7 @@ android push集成了小米，华为，魅族，vivo和oppo五大厂家的push s
 
 **2、Push类图**
 
-![图片](https://images-cdn.shimo.im/5GTVWCbUuH48iADJ/未命名文件_1_.png!thumbnail)
+![图片](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWFnZXMtY2RuLnNoaW1vLmltL25KQ3l4cFFYWHJvZEtCZGovJUU2JTlDJUFBJUU1JTkxJUJEJUU1JTkwJThEJUU2JTk2JTg3JUU0JUJCJUI2XzZfLnBuZyF0aHVtYm5haWw)
 
 **3、Push时序图**
 
